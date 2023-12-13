@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc6d03a8-d56b-4987-9e8c-9e1ccc97839c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STRING.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBufferExplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringEXPLICACION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringEntradaDatos.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc6d03a8-d56b-4987-9e8c-9e1ccc97839c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,12 +122,24 @@
       <workItem from="1701207327416" duration="1206000" />
       <workItem from="1701384616042" duration="6338000" />
       <workItem from="1702371477408" duration="745000" />
-      <workItem from="1702397878842" duration="584000" />
+      <workItem from="1702397878842" duration="1326000" />
     </task>
+    <task id="LOCAL-00001" summary="String exercises">
+      <created>1702430372563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702430372563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="String exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="String exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
